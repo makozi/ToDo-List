@@ -1,4 +1,4 @@
-# test-project
+# A To-Do List App built with Vue.Js
 
 > A Vue.js project
 
