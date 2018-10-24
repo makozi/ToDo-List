@@ -1,6 +1,6 @@
-# A To-Do List App built with Vue.Js
+# ToDo-List
 
-> A Vue.js project
+> A To-Do List App built with Vue.Js
 
 ## Build Setup
 
